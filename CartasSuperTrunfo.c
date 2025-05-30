@@ -3,7 +3,9 @@
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 
+
 int main() {
+    printf ("novo comit" \n)
 
 // carta 1
     char estado1;
